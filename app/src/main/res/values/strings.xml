@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="_0">0</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="dsa">8</string>
+    <string name="dsad">=</string>
+    <string name="asda">2</string>
+    <string name="asdas">-</string>
+    <string name="ac">AC</string>
+    <string name="_0">0</string>
+    <string name="asd">+</string>
+    <string name="jhg">TODO</string>
+    <string name="nbv">4</string>
+    <string name="oiu">*</string>
+    <string name="iou">/</string>
+    <string name="yy">1</string>
+    <string name="mmmm">7</string>
+    <string name="nnn">3</string>
+    <string name="bbbb">9</string>
+    <string name="mmmn">TODO</string>
+    <string name="bbv">KuznetcovCalc</string>
+    <string name="todos">TODO</string>
+</resources>
